@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Activities.MainTabActivity">
+
+    <item
+        android:id="@+id/action_profil"
+        android:orderInCategory="400"
+        android:title="@string/action_settings"
+        android:icon="@drawable/account_circle"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_booking"
+        android:orderInCategory="300"
+        android:title="@string/action_settings"
+        android:icon="@drawable/wunderlist"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_Like"
+        android:orderInCategory="200"
+        android:title="@string/action_settings"
+        android:icon="@drawable/white_heart"
+        app:showAsAction="always" />
+
+</menu>

@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">SquareHangout</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <!-- conf -->
+    <string name="facebook_app_id" translatable="false">1087271771340486</string>
+    <string name="FIREBASE_URL" translatable="false">https://hangoutenvol.firebaseio.com/</string>
+
+    <!-- User Info -->
+    <string name="name_txt">Nom:</string>
+    <string name="user_name_txt" translatable="false">...</string>
+    <string name="email_txt" translatable="false">Email:</string>
+    <string name="birthday_txt" translatable="false">Birthday:</string>
+    <string name="address_txt">Addresse:</string>
+    <string name="phone_txt">Numéro de téléphone:</string>
+
+    <string name="title_update_Dialog">Mettre à jour les informations</string>
+    <string name="text_update_Dialog">SVP mettre à jour vos informations</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_activity_search_maps" translatable="false">Map</string>
+
+    <!-- Cuisine Type-->
+    <string name="af_type">Cuisine africaine</string>
+    <string name="fr_type">Cuisine française</string>
+    <string name="am_type">Cuisine americaine</string>
+    <string name="it_type">Cuisine italienne</string>
+    <string name="title_activity_detail_" translatable="false">Detail_Activity</string>
+
+
+    <string name="title_activity_menu" translatable="false">Menu</string>
+    <string name="title_activity_booking_tab">Votre réservation</string>
+    <string name="title_activity_all_comment">Les commentaires</string>
+    <string name="title_activity_repport">Signaler un problème</string>
+    <string name="title_activity_booking_create">Prendre une réservation</string>
+    <string name="title_activity_points">Vos points de fidélité</string>
+    <string name="title_activity_like">Liste des favoris</string>
+    <string name="title_activity_list_booking">Liste des réservations</string>
+    <string name="title_activity_profil">Votre Compte</string>
+    <string name="alert_cnx">Problème de connexion Internet</string>
+
+
+    <string name="crash_toast_text">Un rapport va être envoyé à un développeur pour aider à résoudre le problème! </string>
+    <string name="crash_dialog_title" translatable="false">CrashTest has crashed</string>
+    <string name="crash_dialog_text">Cliquez sur OK SVP !</string>
+    <string name="crash_dialog_comment_prompt">Vous pouvez ajouter vos commentaires sur le problème ci-dessous:</string>
+    <string name="crash_dialog_ok_toast">Merci !</string>
+    <string name="loading">Chargement ...</string>
+
+    <string name="heure">Heure</string>
+    <string name="reserver">Reserver</string>
+
+    <string name="Starter">Entrée</string>
+    <string name="Main_Course">Plat principal</string>
+
+    <string name="search">Recherche</string>
+
+    <string name="name">Nom</string>
+    <string name="address">Addresse</string>
+    <string name="cuisine_type">Type de cuisine</string>
+    <string name="opening_time">Heure d ouverture</string>
+    <string name="note_rest">Noter ce restaurant</string>
+    <string name="note_club">Noter cet boite de nuit</string>
+
+    <string name="bienvenu">Bienvenue chez </string>
+    <string name="Booking_Date">Date de reservation</string>
+    <string name="Bookin_Time">Heure de reservation</string>
+    <string name="Number_of_places">Nombre de place</string>
+
+    <string name="remove">Suppression</string>
+    <string name="remove_alert">Etes-vous sur de vouloir supprimer cette réservation ?</string>
+
+    <string name="title_activity_splashscreen" translatable="false">SplashscreenActivity</string>
+    <string name="dummy_button" translatable="false">Dummy Button</string>
+    <string name="dummy_content" translatable="false">DUMMY\nCONTENT</string>
+
+</resources>
